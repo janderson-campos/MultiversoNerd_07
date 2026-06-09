@@ -1,0 +1,122 @@
+[
+  {
+    "_id": 1,
+    "name": "Tony Stark",
+    "alias": ["Iron Man"],
+    "universe": "Marvel",
+    "first_appearance": "1963 (Tales of Suspense #39)",
+    "powerLevel": 95,
+    "equipment": ["Armor", "AI Assistant", "Money"],
+    "species": "Human",
+    "movies": ["Iron Man 1", "Iron Man 2", "Avengers", "Avengers: Endgame"],
+    "debut_year": 1963
+  },
+  {
+    "_id": 2,
+    "name": "Darth Vader",
+    "alias": [],
+    "universe": "Star Wars",
+    "first_appearance": "Star Wars Episode IV",
+    "powerLevel": 88,
+    "equipment": ["Lightsaber", "Armor", "Force"],
+    "species": "Human (Cyborg)",
+    "movies": ["A New Hope", "Empire Strikes Back", "Return of the Jedi"],
+    "debut_year": 1977
+  },
+  {
+    "_id": 3,
+    "name": "Harry Potter",
+    "alias": ["The Boy Who Lived"],
+    "universe": "Wizarding World",
+    "first_appearance": null,
+    "powerLevel": null,
+    "equipment": ["Wand", "Cloak", "Owl"],
+    "species": "Human",
+    "movies": ["Sorcerer's Stone", "Chamber of Secrets", "Prisoner of Azkaban"],
+    "debut_year": 1997
+  },
+  {
+    "_id": 4,
+    "name": "Peter Parker",
+    "alias": ["Spider-Man"],
+    "universe": "Marvel",
+    "first_appearance": null,
+    "powerLevel": 89,
+    "equipment": ["Web Shooters", "Costume"],
+    "species": "Human",
+    "movies": [],
+    "debut_year": 1962
+  },
+  {
+    "_id": 5,
+    "name": "Master Chief",
+    "alias": ["John-117"],
+    "universe": "Halo",
+    "first_appearance": "Halo Combat Evolved",
+    "powerLevel": 100,
+    "equipment": ["Mjolnir Armor", "Assault Rifle"],
+    "species": "Human",
+    "movies": ["Halo: Nightfall"],
+    "debut_year": 2001
+  },
+  {
+    "_id": 6,
+    "name": "Gandalf the Grey",
+    "alias": [],
+    "universe": "Middle-earth",
+    "first_appearance": null,
+    "powerLevel": 93,
+    "equipment": ["Staff", "Sword", "Horse"],
+    "species": "Maia (Spirit)",
+    "movies": ["The Fellowship of the Ring", "The Two Towers", "The Return of the King"],
+    "debut_year": 1954
+  },
+  {
+    "_id": 7,
+    "name": "Batman",
+    "alias": [],
+    "universe": "DC",
+    "first_appearance": null,
+    "powerLevel": 85,
+    "equipment": ["Batsuit", "Batmobile", "Money"],
+    "species": "Human",
+    "movies": ["The Dark Knight", "Batman Begins", "The Batman"],
+    "debut_year": 1939
+  },
+  {
+    "_id": 8,
+    "name": "Batman",
+    "alias": [],
+    "universe": "DC",
+    "first_appearance": null,
+    "powerLevel": 85,
+    "equipment": ["Batsuit", "Batmobile", "Money"],
+    "species": "Human",
+    "movies": ["The Dark Knight"],
+    "debut_year": 1939
+  },
+  {
+    "_id": 9,
+    "name": "Lara Croft",
+    "alias": [],
+    "universe": "Tomb Raider",
+    "first_appearance": null,
+    "powerLevel": 76,
+    "equipment": ["Pistols", "Grappling Hook", "Wit"],
+    "species": "Human",
+    "movies": ["Tomb Raider (2001)", "Tomb Raider (2018)"],
+    "debut_year": 1996
+  },
+  {
+    "_id": 10,
+    "name": "Geralt of Rivia",
+    "alias": [],
+    "universe": "Witcher",
+    "first_appearance": null,
+    "powerLevel": 90,
+    "equipment": ["Silver Sword", "Steel Sword", "Potions", "Signs"],
+    "species": "Mutant (Human)",
+    "movies": [],
+    "debut_year": 2007
+  }
+]
